@@ -1,0 +1,10 @@
+{
+    "general": {
+        "title": "Welcome to {{ shop.name }}",
+        "search": "Search"
+    },
+    "products": {
+        "add_to_cart": "Add to Cart",
+        "price": "Price"
+    }
+}
